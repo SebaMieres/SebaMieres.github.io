@@ -1,0 +1,12 @@
+img {
+    height: 300px;
+    width: 500px;
+    object-fit: contain;
+
+}
+.navbar {
+    background-color: rgb(52, 162, 52);
+}
+section{ 
+    background-color: rgb(52, 162, 52);
+}
